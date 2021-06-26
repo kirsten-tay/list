@@ -13,7 +13,9 @@ function App() {
   <Sec></Sec>
   <Footer></Footer>
     </div>
+    
   );
+ 
 }
 
 export default App;

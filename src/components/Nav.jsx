@@ -2,7 +2,9 @@ import react from 'react';
 
 
 function Nav() {
-    return <h1>Lists</h1>
+    return <h1>
+LIST
+    </h1>
 }
 
 
