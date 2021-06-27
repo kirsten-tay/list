@@ -5,7 +5,7 @@ import Arrow3Svg from './Arrow3Svg';
 
   const Sec = () => {
     return (
-        <div className="flex flex-row ">
+        <div className="flex flex-row my-10 ">
          <div className="flex-1 flex justify-center ">
     
             <ul>

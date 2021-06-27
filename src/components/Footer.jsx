@@ -1,15 +1,17 @@
 import react from 'react';
-import plusSvg from './plusSvg';
+
 
 
 const Footer = () => {
     return (
     <div className="flex flex-row">
      <div className=" flex-1 flex justify-center">
-         <button className=" border-none ring-4 rounded-full h-24 w-24 p-none bg-blue-600 items-center rounded-md my-10 ...">
-         <plusSvg/>
+         <button className=" flex flex-row ring-4  rounded-full h-24 w-24 my-10 py-3 font-medium  text-black  ">
+             <span className=" text-4xl px-8 py-1 font-icon">
+               +
+             </span>
          </button>
-
+        
      </div>
     </div>
 

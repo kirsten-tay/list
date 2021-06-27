@@ -2,9 +2,9 @@ import react from 'react';
 
 
 function Nav() {
-    return <h1>
+    return <div className="font-medium text-4xl">
 LIST
-    </h1>
+    </div>
 }
 
 
