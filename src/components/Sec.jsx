@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import ArrowSvg from './ArrowSvg';
 import Arrow2Svg from './Arrow2Svg';
 import Arrow3Svg from './Arrow3Svg';
